@@ -6,4 +6,4 @@ git checkout --filename
 
 git add no commit
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.

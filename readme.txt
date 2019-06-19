@@ -5,5 +5,5 @@ Git has a mutable index called stage.
 git checkout --filename
 
 git add no commit
+Creating a new branch is quick and simple
 
-Creating a new branch is quick & simple.

@@ -9,3 +9,4 @@ Creating a new branch is quick and simple
 
 test dev git1 change  test dev add  合并了
 
+git ignore test

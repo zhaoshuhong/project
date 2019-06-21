@@ -11,4 +11,4 @@ test dev git1 change  test dev add  合并了
 
 git ignore test test 2 -- 修改测试 git ignore 是否生效.
 
-git  已加入版本库文件 ignore
+git  已加入版本库文件 ignore  修改1

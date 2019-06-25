@@ -1,4 +1,4 @@
-Git is a version control system.
+﻿Git is a version control system.
 Git is free software.
 change
 Git has a mutable index called stage.
@@ -13,4 +13,4 @@ git ignore test test 2 -- 修改测试 git ignore 是否生效.
 
 git  已加入版本库文件 ignore  修改1
 
-git 测试
+git 测试       6/25号测试 ----------
